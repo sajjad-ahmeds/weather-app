@@ -1,5 +1,5 @@
 
-console.log('Client side javascript file is loaded!')
+
 
   const webfrom= document.querySelector('form')
  const searchelemet=document.querySelector('input')
